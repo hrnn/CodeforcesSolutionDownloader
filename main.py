@@ -6,9 +6,9 @@ MAX_SUBS = 1000000
 MAX_CF_CONTEST_ID = 600
 MAGIC_START_POINT = 17000
 
-handle='tacklemore'
+handle='Hernan'
 
-SOURCE_CODE_BEGIN = '<pre class="prettyprint program-source" style="padding: 0.5em;">'
+SOURCE_CODE_BEGIN = '<pre id="program-source-text" class="prettyprint lang-java linenums program-source" style="padding: 0.5em;">'
 SUBMISSION_URL = 'http://codeforces.com/contest/{ContestId}/submission/{SubmissionId}'
 USER_INFO_URL = 'http://codeforces.com/api/user.status?handle={handle}&from=1&count={count}'
 
